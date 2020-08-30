@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jay Shah</h1>
 <h3 align="center">A passionate full stack developer from Los Angeles, CA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayshah98" alt="jayshah98" /> </p>
+- 🌱 I’m currently learning **Data analytics**
+
+- 💬 Ask me about **React, Python, and C++**
 
 - 📫 How to reach me **jayrshah1998@gmail.com**
 
