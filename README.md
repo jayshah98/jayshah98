@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Sci-kit**
 
-- 💬 Ask me about **React, Python, and C++**
+- 💬 Ask me about **Pandas, Python, and C++**
 
 - 📫 How to reach me **jayrshah1998@gmail.com**
 
