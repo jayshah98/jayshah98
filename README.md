@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Shah</h1>
-<h3 align="center">A passionate full stack developer from Los Angeles, CA</h3>
+<h3 align="center">A passionate Full Stack Deloper/Data Analyst from Los Angeles, CA</h3>
 
-- 🌱 I’m currently learning **Data analytics**
+- 🌱 I’m currently learning **Sci-kit**
 
 - 💬 Ask me about **React, Python, and C++**
 
